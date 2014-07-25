@@ -9,7 +9,7 @@ tagline: an experiment in technology + neuroscience
 Welcome to my open lab notebook/Division III repository/definitely still 100% a work in progress.
 
 	
-
+<!--
 
 ## Sample Posts
 
@@ -26,6 +26,6 @@ Here's a sample "posts list".
   {% endfor %}
 </ul>
 
-
+-->
 
 
