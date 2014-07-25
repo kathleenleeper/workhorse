@@ -12,10 +12,14 @@ title : critically open neuroscience
 tagline: a div III & then some
 author :
   name : Kathleen Leeper
+  firstName: Kathleen
+  familyName: Leeper
   email : kathleen.leeper@gmail.com
   github : kathleenleeper
 # twitter : username
 # feedburner : feedname
+
+system : Fedora 20
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
