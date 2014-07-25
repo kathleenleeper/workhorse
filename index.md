@@ -1,16 +1,21 @@
 ---
 layout: page
-title: welcome
-tagline: an experiment in technology + neuroscience
+title:
+tagline: welcome
 ---
 {% include JB/setup %}
 
-#hi
-Welcome to my open lab notebook/Division III repository/definitely still 100% a work in progress.
+
+<br>
+
+##critically open neuroscience##
+<p>I'm Kathleen Leeper, currently a Division III student at [Hampshire College](www.hampshire.edu). My project is working with neuron-like stem cells and inducing expression of certain receptors, described [here](/labwork/about.html}}), with all of my research work documented in an open lab [notebook](/labwork/index.html). This is an experiment in learning to "walk the walk" of value-driven and open science. It's also an experiment in critically reflecting on how science and structures of science (publishing and access, notably) play into and exacerbate power structures, both at home and abroad. Who can afford to do open science and who benefits from it are crucial questions to start finding answers for as the open science movement gains steam.
+</p>
+ 
+
 
 	
 <!--
-
 ## Sample Posts
 
 This blog contains sample posts which help stage pages and blog data.
