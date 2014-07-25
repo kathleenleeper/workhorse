@@ -73,7 +73,7 @@ task :post do
   end
 end # task :post
 
-# Usage: rake labpost title="A Title" [category="category"] [date="2012-02-09"] [tags=[tag1,tag2]]
+# Usage: rake labpost title="A Title" [category="category"] [date="2012-02-09"] [tags=[tag1,tag2]] [intent="intent"]
 desc "Begin a new post in #{CONFIG['posts']}"
 task :labpost do
   abort("rake aborted: '#{CONFIG['posts']}' directory not found.") unless FileTest.directory?(CONFIG['posts'])
@@ -81,6 +81,7 @@ task :labpost do
   tags = ENV["tags"] || "[]"
   category = ENV["category"] || ""
   category = "\"#{category.gsub(/-/,' ')}\"" if !category.empty?
+  intent = ENV["intent"] || ""
   slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
   begin
     date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
@@ -98,9 +99,9 @@ task :labpost do
     post.puts "---"
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/-/,' ')}\""
-    post.puts "category: #{category} labwork"
+    post.puts "category: #{category}labwork"
     post.puts "tags: #{tags}"
-    post.puts "intent:"
+    post.puts "intent: #{intent}"
     post.puts "---"
     post.puts "{% include JB/setup %}"
     post.puts "##intention"
