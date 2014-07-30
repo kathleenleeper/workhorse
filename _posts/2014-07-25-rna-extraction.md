@@ -3,11 +3,11 @@ layout: post
 title: "P19 lysing"
 category: labwork
 tags: [molecular bio]
-intent: lysing day 0 P19s for RNA extraction
+intent: lysing P19s for baseline RNA
 ---
 {% include JB/setup %}
 ##intention##
-Lyse P19s on day 0, to get a baseline/control RNA reading of expression levels
+Lyse P19s on day 0, 3, 6, 9, & 12, to get a baseline/control RNA reading of expression levels
 
 ##protocol##
 *does not need to be done in hood*<br>
@@ -18,4 +18,5 @@ Lyse P19s on day 0, to get a baseline/control RNA reading of expression levels
   4. incubate homogenized samples for 5 minutes at room temp; **store at -80 indefinitely**
 
 ##results?##
-stored @ -80; to be purified with RNA extractions from day 3, 6, 9, 12
+day 0: stored @ -80; to be purified with RNA extractions [July 25] 
+day 3: stored @ -80 [July 28]
