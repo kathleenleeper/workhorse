@@ -106,7 +106,9 @@ task :labpost do
     post.puts "{% include JB/setup %}"
     post.puts "##intention"
     post.puts "##protocol"
-    post.puts "##results"
+    post.puts "##results & notes"
+    post.puts "*Nothing yet!*
+   
   end
 end # task :labpost
 
