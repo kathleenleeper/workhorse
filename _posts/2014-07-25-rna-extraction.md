@@ -20,3 +20,4 @@ Lyse P19s on day 0, 3, 6, 9, & 12, to get a baseline/control RNA reading of expr
 ##results?##
 day 0: stored @ -80; to be purified with RNA extractions [July 25] 
 day 3: stored @ -80 [July 28]
+

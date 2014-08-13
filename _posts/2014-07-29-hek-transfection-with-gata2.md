@@ -2,7 +2,9 @@
 layout: post
 title: HEK & P19 transfection
 category: labwork
-tags: Gata2, cell culture
+tags: 
+ - Gata2 
+ - cell culture
 intent: working out kinks in the vector and in the target cell line
 ---
 {% include JB/setup %}

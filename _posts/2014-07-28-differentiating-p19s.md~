@@ -2,8 +2,7 @@
 layout: post
 title: differentiating P19s
 category: labwork
-tags: 
- - cell culture
+tags: cell culture
 intent: differentiating and extracting RNA
 ---
 {% include JB/setup %}
