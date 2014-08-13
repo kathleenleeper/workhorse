@@ -107,8 +107,7 @@ task :labpost do
     post.puts "##intention"
     post.puts "##protocol"
     post.puts "##results & notes"
-    post.puts "*Nothing yet!*
-   
+    post.puts "*Nothing yet!*"
   end
 end # task :labpost
 
