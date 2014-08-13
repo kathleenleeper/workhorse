@@ -1,22 +1,31 @@
 ---
 layout: page
-title: open notebook
+title:  open notebook
 tagline: differentiating P19s
 group: navigation
 ---
 {% include JB/setup %}
-<h2><i class="fa fa-arrow-circle-right"></i><a href="/labwork/about.html"> about the project</a></h2>
+
 <h5> DISCLAIMER:</h5>
 <blockquote>
  "Welcome to my open lab notebook. This is the active, permanent record of my scientific research, standing in place of the traditional paper bound lab notebook. The notebook is primarily a tool for me to do science, not communicate it. I write my entries with the hope that they are intelligible to my future self; and maybe my collaborators and experts in my field. Only the occasional entry will be written for a more general audience."
 </blockquote>
 <p style="text-align:right;">lifted directly from <a href ="http://www.carlboettiger.info/2012/09/28/Welcome-to-my-lab-notebook.html"> Carl Boettinger's intro </a> to his open lab notebook</p> 
 <br>
-<h2>all entries</h2>
+
+<h2><i class="fa fa-arrow-circle-right"></i><a href="/labwork/about.html"> about the project</a></h2>
+<br><br>
+
+<h2> <i class="fa fa-book"></i> all entries</h2>
+
+{% assign posts_collate = site.categories.labwork %}
+{% include JB/posts_collate-withintent %}
 
 
-<ul class="posts">
+<br><br>
+<!--- <ul class="posts">
   {% for post in site.categories.labwork %}
-    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>: {{ post.intent }} </li>
+    <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>: {{ post.inte	nt }} </li>
   {% endfor %}
-</ul>
+</ul> --->
+
