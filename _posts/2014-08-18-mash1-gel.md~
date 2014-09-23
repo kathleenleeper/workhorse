@@ -1,0 +1,24 @@
+---
+layout: post
+title: "Mash1 gel & purification"
+category: labwork
+tags: Mash1, molecular bio
+intent: run the product of the Mash1 digest to separate vector from gene
+---
+{% include JB/setup %}
+##intention
+After the restriction digest of Mash1 to cut the incorrectly-oriented vector, running the product on a 7% agarose gel to separate vector from gene and then cutting both of them out to purify and leave behind vector and gene for religation.
+##protocol
+###gel
+Make a 7% agarose gel with a well that can accomodate ~20 uls
+reagants
+ * .7 g agarose
+ * 100 mls TAE
+ * 3 uls EthBr
+loaded with a 
+ * 4uls HINDIII ladder
+ * ~15 uls of the Mash1/vector/loading dye
+###gel purification
+Done with centrifuge protocol of the Quiagen gel prep kit, ~2004 edition
+##results &/or notes
+Not imaged, but the gel showed two distinct bands at 700 bp and ~1400, presumably Mash1 and the vector, which were cut out with a dull-ish razorblade. The product from gel purification were nanodropped, but the nanodrop machine is broken (we think?) so no results.
