@@ -8,6 +8,7 @@ tags:
 intent: 
 ---
 {% include JB/setup %}
+
 ##intention
 
 Screen the E. coli colonies for insertion of Mash1 into the vector (PCR); then screen those colonies for direction of insertion (PCR again)
@@ -112,3 +113,4 @@ PCR Cycle:
 ##results &/or notes
 From a 7% agarose gel:
 
+ [img-ref]:  {{ BASE_PATH }}/Data/9-24-14-mash1-screening2.jpg
