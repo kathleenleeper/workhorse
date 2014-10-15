@@ -2,7 +2,7 @@
 layout: post
 title: "RNA extractions & phosphate removal"
 category: labwork
-tags: [molecular bio, P19s, Mash1]
+tags: [iteration-1 molecular bio, P19s, Mash1]
 intent: extract RNA from Trizol-ed P19s & prep. Mash1 vector
 ---
 {% include JB/setup %}

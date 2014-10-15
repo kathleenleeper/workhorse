@@ -2,7 +2,7 @@
 layout: post
 title: "screen Mash1 insert"
 category: labwork
-tags: [Mash1, molecular bio]
+tags: [iteration-1, Mash1, molecular bio]
 intent: 
 ---
 {% include JB/setup %}

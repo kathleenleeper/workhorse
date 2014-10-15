@@ -2,7 +2,7 @@
 layout: post
 title: "screening Mash1 colonies"
 category: labwork
-tags: [Mash1, molecular bio]
+tags: [iteration-1 Mash1, molecular bio]
 intent: screen the newly cultured e.coli for insert direction
 ---
 {% include JB/setup %}

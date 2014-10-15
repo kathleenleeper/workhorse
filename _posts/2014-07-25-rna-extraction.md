@@ -2,7 +2,7 @@
 layout: post
 title: "P19 lysing"
 category: labwork
-tags: [molecular bio]
+tags: [iteration-1 molecular bio]
 intent: lysing P19s for baseline RNA
 ---
 {% include JB/setup %}
