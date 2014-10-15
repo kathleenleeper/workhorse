@@ -44,9 +44,5 @@ Run the middle 3 steps x35 times
 | 55 | :30 s | x35 |
 | 72 | 1:30 s | x35 |
 | 72 | 3 mins | - |
-| 4 | infinite | - |
 
-
-
-##gel results
 
