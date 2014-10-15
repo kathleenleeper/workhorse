@@ -11,7 +11,8 @@ intent: re-ligating gene and vector
 
 ##intention
 
-Ligate Mash1 and vector again and then transform E. coli, cross our fingers that one of the colonies has a properly-inserted vector.
+Ligate de-phosphated Mash1 and vector from [August 20]({% post_url 2014-08-20-rna-extractions--phosphate-removal %}) and then transform it into E. coli, cross our fingers that one of the colonies has a properly-inserted vector.
+
 
 ##protocol
 
