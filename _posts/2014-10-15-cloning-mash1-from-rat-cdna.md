@@ -45,4 +45,10 @@ Run the middle 3 steps x35 times
 | 72 | 1:30 s | x35 |
 | 72 | 3 mins | - |
 
+####Gel results
+
+from a ~.75% agarose gel
+![My helpful screenshot]({{ site.url }}/Data/10-15-14_mash1-cDNA-v1.png)
+
+
 
