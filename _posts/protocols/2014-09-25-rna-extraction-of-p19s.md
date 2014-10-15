@@ -3,7 +3,7 @@ layout: post
 title: "protocol: RNA extraction of P19s"
 description: ""
 category:  protocol
-tags: [iteration-1 P19s, protocol]
+tags: [iteration-1, P19s, protocol]
 ---
 {% include JB/setup %}
 

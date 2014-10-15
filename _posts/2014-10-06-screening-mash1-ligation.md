@@ -2,7 +2,7 @@
 layout: post
 title: "screening Mash1 ligation"
 category: labwork
-tags: [iteration-1 Mash1, molecular bio]
+tags: [iteration-1, Mash1, molecular bio]
 intent: grow up colonies from the plate screened earlier in LB tubes
 ---
 {% include JB/setup %}
