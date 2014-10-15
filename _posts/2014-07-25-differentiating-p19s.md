@@ -2,8 +2,7 @@
 layout: post
 title: differentiating P19s
 category: labwork
-tags: 
- - cell culture
+tags: [iteration-1, cell culture, P19s]
 intent: 
 ---
 {% include JB/setup %}

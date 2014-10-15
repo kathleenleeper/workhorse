@@ -4,6 +4,7 @@ title: EcoR1 restriction digest of M5
 category: labwork
 date: "2014-07-16 21:22:18"
 intent: digesting the incorrectly oriented Mash1 vector
+tags: [iteration-1, Mash1]
 ---
 
 ##intention##

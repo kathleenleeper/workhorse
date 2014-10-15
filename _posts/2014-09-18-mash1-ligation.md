@@ -2,9 +2,7 @@
 layout: post
 title: "Mash1 ligation"
 category: labwork
-tags: 
- - Mash1 
- - molecular bio
+tags: [iteration-1, Mash1, molecular bio]
 intent: re-ligating gene and vector
 ---
 {% include JB/setup %}

@@ -2,9 +2,7 @@
 layout: post
 title: imaging transfected cells
 category: labwork
-tags: 
- - cell culture 
- - Gata2
+tags: [iteration-1, cell culture, Gata2]
 intent: examine success of P19 and HEK transfection
 ---
 {% include JB/setup %}

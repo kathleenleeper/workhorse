@@ -2,9 +2,7 @@
 layout: post
 title: splitting HEKs & P19s
 category: labwork
-tags: 
- - cell culture
- - Gata2
+tags: [iteration-1, cell culture, P19s]
 intent: splitting P19s & HEKs for differentiation & transfection 
 ---
 {% include JB/setup %}

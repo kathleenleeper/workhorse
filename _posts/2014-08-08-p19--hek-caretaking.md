@@ -2,10 +2,7 @@
 layout: post
 title: P19 and HEK caretaking
 category: labwork
-tags: 
- - Gata2 
- - differentiation
- - cell culture
+tags: [iteration-1, Gata2, differentiation, cell culture]
 intent: 
 ---
 {% include JB/setup %}

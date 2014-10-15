@@ -2,10 +2,7 @@
 layout: post
 title: "EcoR1 digest of M5"
 category: labwork
-tags: 
- - molecular bio
- - restriction digest
- - Mash1
+tags: [iteration-1, molecular bio, Mash1]
 intent: digesting the incorrectly oriented Mash1 vector from the revived e. coli
 ---
 {% include JB/setup %}

@@ -2,7 +2,7 @@
 layout: post
 title: "fixing and maintaining cells"
 category: labwork
-tags: [iteration-1 cell culture, P19s, HEKs]
+tags: [iteration-1, cell culture, P19s, HEKs]
 intent: "cell line feeding, RNA extraction, and methanol fixing"
 ---
 {% include JB/setup %}

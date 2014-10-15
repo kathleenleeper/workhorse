@@ -2,7 +2,7 @@
 layout: post
 title: "imaging transfected cells"
 category: labwork
-tags: [iteration-1 P19s, HEKs, Mash1]
+tags: [iteration-1, P19s, HEKs, Mash1]
 intent: 
 ---
 {% include JB/setup %}

@@ -4,6 +4,7 @@ title: transformation of Gata2 vector into bacteria
 category: labwork
 date: "2014-07-15 21:22:18"
 intent: transforming properly oriented Gata2 vector into competent e. coli
+tags: [iteration-1, Gata2] 
 ---
 
 ##intention##
