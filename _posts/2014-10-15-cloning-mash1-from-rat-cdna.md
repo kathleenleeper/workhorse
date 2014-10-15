@@ -35,13 +35,15 @@ All primer info @ the primer page*
 
 ####Cycle
 
+Based on the last gel, we're changing the annealing temperature up two degrees (from 59 to 60.5) to get a clearer signal.
+
 Run the middle 3 steps x35 times
 
 | temp | time | cycles |
 | ------------- |-------------| -------------|
 | 94 | 2 mins | - |
 | 94 | :30 s | x35 |
-| 55 | :30 s | x35 |
+| 59 | :30 s | x35 |
 | 72 | 1:30 s | x35 |
 | 72 | 3 mins | - |
 
