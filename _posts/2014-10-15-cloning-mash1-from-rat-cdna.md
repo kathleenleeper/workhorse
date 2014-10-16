@@ -49,6 +49,9 @@ Run the middle 3 steps x35 times
 
 ####Gel results
 
+![.75% agarose gel, with 60.5&deg; annealing temp]({{ site.url }}/Data/10-15-14_mash1-cDNA-v2_rushed.png)
+
+
 
 
 
