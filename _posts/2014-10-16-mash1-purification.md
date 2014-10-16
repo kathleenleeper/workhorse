@@ -26,9 +26,8 @@ Run a gel purification using the [QIAquick Gel Extraction Kit](http://www.qiagen
 ####gel
 
  * ending with 60 uls DNA in each tube (A + B)
- * running on a gel to see which sample is Mash1 and which is primer dimer
-
-
+ * running 10 uls of each on a gel to see which sample is Mash1 and which is primer dimer
+![empty gel]( {{site.url}}/Data/10-16-14_gel-purification-60pt5annealing.png)
 
 
 
