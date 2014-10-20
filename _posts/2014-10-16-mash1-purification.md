@@ -21,16 +21,22 @@ Run a gel (.75% agarose & TAE) & cut out the bands on a UV screen.
 
 ####purify
 
-Run a gel purification using the [QIAquick Gel Extraction Kit](http://www.qiagen.com/us/products/catalog/sample-technologies/dna-sample-technologies/dna-cleanup/qiaquick-gel-extraction-kit)
+Run a gel purification using the [QIAquick Gel Extraction Kit](http://www.qiagen.com/us/products/catalog/sample-technologies/dna-sample-technologies/dna-cleanup/qiaquick-gel-extracltion-kit); elute with elution buffer in kit
+
+##results
 
 ####gel
 
  * ending with 60 uls DNA in each tube (A + B)
  * running 10 uls of each on a gel to see which sample is Mash1 and which is primer dimer
-![empty gel]( {{site.url}}/Data/10-16-14_gel-purification-60pt5annealing.png)
+
+![First gel in 1% agarose]({{site.url}}/Data/10-16-14_gel-purification-60pt5annealing.png)
+
+![2% agarose gel showing a better signal in the second lane]({{site.url}}/Data/10-17-14_gel-purification-60.5annealingv2.png)
 
 
 
-##results &/or notes
+
+
 
 
