@@ -5,8 +5,11 @@ category: labwork
 tags:  [iteration-1, Gata2, cell culture]
 intent: working out kinks in the vector and in the target cell line
 ---
+
 {% include JB/setup %}
+
 ##intention##
+
 Two goals: Transfecting the Gata2 vector (CMV - Gata2 - GFP - SV40) into HEK cells, to see if and how the vector works.
 P19s are difficult to transfect and prone to death, so we're just trying two methods (fugene & "Lipofectamine 3000") to see if either is effective.
 
