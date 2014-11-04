@@ -9,7 +9,7 @@ intent:
 
 ##intention
 
-Clean up the restriction digest, then ligate and transform it in to E. coli.
+Clean up the restriction digest of Mash1, then ligate and transform it in to E. coli.
 
 ##protocol
 
@@ -30,7 +30,7 @@ Combine, let sit @ room temperature for 15 minutes
 ###transformation
 
 Keep on ice! 
- * 50 uls H101 cells
+ * 50 uls HB101 cells
  * 3 uls of ligation
 
 1. incubate on ice 20 minutes
