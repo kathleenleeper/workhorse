@@ -10,7 +10,7 @@ intent:
 
 ##intention
 
-Run the same sequence of protocols as [the earlier transformation]({% post_url 2014-10-23-mash1-and-new-vector.md %}), after
+Run the same sequence of protocols as [the earlier transformation]({% post_url 2014-10-23-mash1-and-new-vector %}), after
  
  * making sure TSAP is inactive
  * doubling vector and insert concentrations

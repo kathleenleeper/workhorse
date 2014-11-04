@@ -10,7 +10,7 @@ intent:
 
 ##intention
 
-Run another transformation with the [new vector]({% post_url 2014-10-23-cutting-new-vector.md %}).
+Run another transformation with the [new vector]({% post_url 2014-10-23-cutting-new-vector %}).
 
 ##protocol
 
