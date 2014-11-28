@@ -11,7 +11,7 @@ My lab notebook isn't quite up to date. It will be, and I'll update this update 
 
 Basically, it doesn't take too much effort to look at the list of notebook entries and see a long, long, bunch of repetitive entries stretching back to August. I've actually run even more than immediately appear, because each "entry" may run three or four git versions back. 
 
-Anyway, since [this post]({% post_url 2014-10-15-cloning-mash1-from-rat-cdna %}), I've been working on cloning Mash1 from cDNA, cleaning it up, inserting it into a vector, and growing it up in e. coli. The log shows how difficult and excruciating each step has done. For naught, it turns out, because [last week]({ % post_url 2014-11-06-testing-mash1-primers %}) John and I had the idea to finally test <i>what</i>, exactly, my Mash1 primers were doing. And. Well. 
+Anyway, since [this post]({% post_url 2014-10-15-cloning-mash1-from-rat-cdna %}), I've been working on cloning Mash1 from cDNA, cleaning it up, inserting it into a vector, and growing it up in e. coli. The log shows how difficult and excruciating each step has done. For naught, it turns out, because [last week]({% post_url 2014-11-06-testing-mash1-primers %}) John and I had the idea to finally test <i>what</i>, exactly, my Mash1 primers were doing. And. Well. 
 
 ![testing the Mash1 insert]({{ site.url }}/Data/11-06-14_mash1-screen.png) 
 

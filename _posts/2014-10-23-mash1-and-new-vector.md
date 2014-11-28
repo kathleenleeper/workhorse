@@ -14,16 +14,14 @@ Run another transformation with the [new vector]({% post_url 2014-10-23-cutting-
 
 ##protocol
 
-|reagant | uls |
-|------------| -----| 
-| 2x ligase buff &nbsp; | 4.9 |
-| ligase&nbsp;&nbsp; | 1 |
-|vector | 1.2 |
-|insert/buffer | 1.07| 
-| H<sub>2</sub>O| 2.7 &
+ reagant | uls 
+------------ | -----  
+ 2x ligase buff &nbsp; | 4.9 
+ ligase&nbsp;&nbsp; | 1 
+ vector | 1.2 |
+ insert/buffer | 1.07 
+ H<sub>2</sub>O | 2.7 
 
-<br>
-<br>
 Combine, let sit @ room temperature for 15 minutes
 
 ###transformation
