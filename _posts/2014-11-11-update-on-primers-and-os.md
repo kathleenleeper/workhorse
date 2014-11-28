@@ -1,11 +1,9 @@
 ---
 layout: post
 title: "Mash1 primer update"
-description: ""
 category: labwork
 tags: [mash1, update]
 ---
-{% include JB/setup %}
 
 ##so
 
