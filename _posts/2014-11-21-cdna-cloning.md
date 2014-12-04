@@ -8,7 +8,7 @@ intent:
 
 ##intention
 
-Post-return from the SfN conference, rerunning [11/11 PCRs]({% post_url2014-11-11-cdna-clones.md %}) with a different pipetting setup.
+Post-return from the SfN conference, rerunning [11/11 PCRs]({% post_url 2014-11-11-cdna-clones %}) with a different pipetting setup.
 
 ##protocol
 
