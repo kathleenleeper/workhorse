@@ -33,4 +33,9 @@ Post-return from the SfN conference, rerunning [11/11 PCRs]({% post_url2014-11-1
 
 
 ##results &/or notes
-*Nothing yet!*
+
+The PCR machine fritzed on the first step of the cycle and samples were at ~94&deg; for approximately 20 minutes before I discovered the error. Seems to have run okay.
+
+Gel conclusion: The DreamTaq isn't good enough at proofreading. Also strange is that the 5'-3' has bright bands at 1400, but none at 700 like the 3' does. 
+
+![1% agarose gel]({{ site.url }}/Data/11-22-14_RPE-testingprimers.png)
