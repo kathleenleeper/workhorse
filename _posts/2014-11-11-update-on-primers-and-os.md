@@ -22,4 +22,4 @@ For those of you not compulsively looking at these gels like I am, or who aren't
 ###what it means
 
  1.  most, if not all, of the work and/or accomplishments related to this gene were doomed from the get go. Anything tagged mash1? Useless.
- 2. I need new primers. We'll see if we can do better this time around. The rest of my entries will be up for posterity, and so I can feel good about the amount of time I spent, if nothing else, but the real work won't start again for at least a week.
+ 2. I need new primers- maybe? We'll see if we can do better this time around. The rest of my entries will be up for posterity, and so I can feel good about the amount of time I spent, if nothing else, but the real work won't start again for at least a week.
