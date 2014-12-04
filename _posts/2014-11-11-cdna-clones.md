@@ -14,7 +14,7 @@ Clone Mash1 out of cDNA, but run a negative control with just 5' and just 3' rea
 ##protocol
 
 
-| reagant             | per 25 &956;l rxn | x2, 5'-3'            | x2, 3' | x2, 5' |
+| reagant             | per 25 &#956; l  rxn | x2, 5'-3'            | x2, 3' | x2, 5' |
 |---------------------|-------------------|----------------------|--------|--------|
 | 5'                  | .5                | 1                    | 1      |  -     |
 | 3'                  | .5                | 1                    |  -     | 1      |
@@ -36,6 +36,12 @@ Clone Mash1 out of cDNA, but run a negative control with just 5' and just 3' rea
 | 4    | &infin; |     |
 
 ##results
+
+Honestly, I have no idea why this is completely blank. I ran a second PCR the exact same way, with the same results. Probably a result of my pipetting setup, which requires pipetting .5&#956;ls of cDNA into each tube and has no duplicates. 
+
+![1% agarose gel]({{ site.url }}/Data/11-12-14_cDNA-cloning_annotated.png)
+
+
 
 
 
