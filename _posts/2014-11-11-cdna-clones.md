@@ -14,6 +14,7 @@ Clone Mash1 out of cDNA, but run a negative control with just 5' and just 3' rea
 ##protocol
 
 
+<<<<<<< HEAD
 | reagant             | per 25 &#956; l  rxn | x2, 5'-3'            | x2, 3' | x2, 5' |
 |---------------------|-------------------|----------------------|--------|--------|
 | 5'                  | .5                | 1                    | 1      |  -     |
@@ -42,6 +43,8 @@ Honestly, I have no idea why this is completely blank. I ran a second PCR the ex
 ![1% agarose gel]({{ site.url }}/Data/11-12-14_cDNA-cloning_annotated.png)
 
 
+
+=======
 
 
 
