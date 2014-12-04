@@ -2,7 +2,7 @@
 layout: post
 title: "cloning: with Phusion"
 category: labwork
-tags: [mash1, cloning]
+tags: [mash1, cloning, success]
 intent: clone Mash1 with better Taq
 ---
 
@@ -39,4 +39,7 @@ This was run with the usual 5'-3', 3', and 5' negative controls.  I initially ca
 
 
 ##results &/or notes
-*Nothing yet!*
+
+Wow, look at that beautiful 700 bp band and completely negative negative controls.
+
+![1% agarose gel]({{ site.url }}/Data/11-25-14_RPE-phusion_2_annotated.png)
