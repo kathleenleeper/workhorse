@@ -14,10 +14,11 @@ Why?
 </h2>
 <p>
 My Div III aims to explore open and feminist science through a model molecular/cellular neuroscience project. The lab components are as documented as I can possibly make them, as an expression and test drive of open science.
-My written work  explores the potential implications of open science as both a liberatory power (yay!) and as a potential neocolonialist force (boo!) in an attempt to circumvent the latter and promote the former. Answers are, of course, not easy or simple.</p>
+iy written work  explores the multifaceted potentials of open science: as a system to reform, empower, and re-invigorate science in the service of humanity, and as a new way of enacting age old patterns patriarchal, color- and gender-blind, neocolonialist science. </p>
 <br>
 <p>
-This repository/site is/are the &quot;living&quot; version of my Division III project @ Hampshire College. It contains my lab notebook (a project on differentiating P19 stem cells into serotonergic neurons), my reference list (i.e. past, current, and future books &amp; articles) with appropriate access points (i.e. PDFs or links), and written work, with past and present versions of my thesis.  All of the files used to build the site can be found  at the <a href="{{site.github.repo}}workhorse">github repository</a>, if you'd like to build a version of the site yourself. 
+This github repository and the corrsponding siteare the &quot;living&quot; version of my Division III project @ Hampshire College, relating to P19 stem cells and serotonin signalling. My thesis work is stored in a separate repository.
+All of the files used to build the site can be found  at the <a href="{{site.github.repo}}workhorse">github repository</a>, if you'd like to build a version of the site yourself. 
 </p>
 
 <h3 id="technical information">
